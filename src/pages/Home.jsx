@@ -23,7 +23,7 @@ const Home = ({ eventType }) => {
               </div>
               <br />
               <Details
-                name={'Shubham Singh'}
+                name={'Shubham Singhi'}
                 githubURL={'https://github.com/imshubhamsingh'}
                 projectURL={'https://github.com/imshubhamsingh/15-puzzle'}
                 linkedinURL={'https://linkedin.com/in/imshubhamsingh97/'}
